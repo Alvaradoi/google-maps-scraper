@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Project Outputs
+output/
+*.csv
+*.xlsx
+
+# Playwright & OS
+.playwright/
+.DS_Store
+Thumbs.db
+
